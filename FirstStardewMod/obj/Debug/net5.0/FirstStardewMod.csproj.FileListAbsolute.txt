@@ -1,0 +1,10 @@
+/Users/lior/Projects/FirstStardewMod/FirstStardewMod/bin/Debug/net5.0/FirstStardewMod.deps.json
+/Users/lior/Projects/FirstStardewMod/FirstStardewMod/bin/Debug/net5.0/FirstStardewMod.dll
+/Users/lior/Projects/FirstStardewMod/FirstStardewMod/bin/Debug/net5.0/FirstStardewMod.pdb
+/Users/lior/Projects/FirstStardewMod/FirstStardewMod/obj/Debug/net5.0/FirstStardewMod.csproj.AssemblyReference.cache
+/Users/lior/Projects/FirstStardewMod/FirstStardewMod/obj/Debug/net5.0/FirstStardewMod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lior/Projects/FirstStardewMod/FirstStardewMod/obj/Debug/net5.0/FirstStardewMod.AssemblyInfoInputs.cache
+/Users/lior/Projects/FirstStardewMod/FirstStardewMod/obj/Debug/net5.0/FirstStardewMod.AssemblyInfo.cs
+/Users/lior/Projects/FirstStardewMod/FirstStardewMod/obj/Debug/net5.0/FirstStardewMod.csproj.CoreCompileInputs.cache
+/Users/lior/Projects/FirstStardewMod/FirstStardewMod/obj/Debug/net5.0/FirstStardewMod.dll
+/Users/lior/Projects/FirstStardewMod/FirstStardewMod/obj/Debug/net5.0/FirstStardewMod.pdb
